@@ -9,7 +9,7 @@ func main() {
 
 fmt.Println("Hello, World!")
 
-numtotal := sum(1, 2, 3, 4, 5, 6, 7, 8, 9, 10) 
+numtotal := sum(1, 2, 3, 4, 5, 6, 7, 8, 9, 10,7,8,01) 
 
 fmt.Println(numtotal)
 
